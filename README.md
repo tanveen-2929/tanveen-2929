@@ -1,7 +1,5 @@
 # 💫 Hi 👋, I'm Tanveen kaur
-**A passionate Aspiring Data Analyst & Web Developer from India 🇮🇳**
-
-Email Me 👉 ✉️ **tanveenk66@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+**A passionate Aspiring Data Analyst & Web Developer from India 🇮🇳** 😊😊
 
 - 🔭 **I’m currently working on:** Python, SQL, and Web Development projects
 - 🌱 **I’m currently learning:** Data Analytics, Power BI, Pandas, and Data Visualization
